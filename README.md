@@ -24,6 +24,8 @@ git clone https://github.com/kaking4/crawZsxqToWord.git
 ```python
 getJson2("iamgroupid",10)#getJson2(https://wx.zsxq.com/dweb2/index/group/后面的数字,重复请求次数)
 rmFile(image=0,file=0)#删除文件 ,,如果需要删除文件，把0改成1
+'zsxq_access_token': 
+这个应该知道是什么吧
 ```
 
 
