@@ -3,7 +3,7 @@ import re,os,json,urllib.parse,docx,requests,random
 from docx.shared import Inches
 from docx.oxml.ns import qn
 from requests_html import HTMLSession
-
+#爬取知识星球内容
 def getTalk(doc,show_comments):
     for i in show_comments:
         tt = upadteText(i['text'])
