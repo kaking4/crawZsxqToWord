@@ -1,6 +1,8 @@
 ## crawZsxqToWord
 爬取知识星球内容（不包括附件和提问项）。
 知识星球快过期了，里面的内容学习的差不多了，但是想保存一点下来
+保存的格式word
+
 。。
 
 ## 简介
@@ -8,7 +10,7 @@
 写的很垃圾，能用就行。对吧
 
 ```
-git clone xxxx
+git clone https://github.com/kaking4/crawZsxqToWord.git
 ```
 
 使用环境要求：
